@@ -56,3 +56,36 @@ export const swotData = [
             ]
         }
     ];
+
+export const  strategicObjectives = [
+    {   "id": 1,
+        "goal": "Daily Online Sales",
+        "target": 250,
+        "progress": 70,
+        "compliance": 28
+    },
+    {   "id": 2,
+        "goal": "Customer Retention Rate",
+        "target": 90,
+        "progress": 70,
+        "compliance": 78
+    },
+    {   "id": 3,
+        "goal": "Average Customer Rating",
+        "target": 4.5,
+        "progress": 3.0,
+        "compliance": 67
+    },
+    {   "id": 4,
+        "goal": "Number of Workers",
+        "target": 50,
+        "progress": 26,
+        "compliance": 52
+    },
+    {   "id": 5,
+        "goal": "Customer Satisfaction Surveys Completion (per Month)",
+        "target": 1000,
+        "progress": 150,
+        "compliance": 15
+    }
+];
