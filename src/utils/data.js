@@ -1,4 +1,4 @@
-export const SWOTData = [
+export const swotData = [
         {   "id": 1,
             "type": "Strengths",
             "items": [
@@ -55,4 +55,4 @@ export const SWOTData = [
                 "description": "Other sellers, especially on platforms like eBay or Amazon, may offer similar products at competitive prices."}
             ]
         }
-    ]
+    ];
